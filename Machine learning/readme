@@ -1,2 +1,21 @@
-Here we have tried to group the wine in different quality buckets.
+Background
+Our client is a wine boutique looking to improve profits by carrying more appealing wines. The business question we aim to answer is whether we can determine which wines will be famous amongst customers based on specific attributes of the wine. These attributes include description, country, province, region, winery, and variety. 
 
+The dataset we have used to address our business question is from WineEnthusiast Magazine’s online platform. WineEnthusiast Magazine was founded in 1988, with staff having extensive knowledge of wines spanning across the globe. Their team of professional reviewers has reviewed 130,000 wines, which have been web scraped into a csv file on June 15th, 2017, for this project.
+
+The dataset consists of the following columns:
+●	country: the country the wine is from
+●	description: written description of wine from reviewer
+●	designation: land within the winery where the grapes of the wine are formed
+●	points: rating of wine out of 100 points
+●	price: the price of the wine
+●	province: the province the wine is from
+●	region_1: region where the wine is from
+●	region_2: more specific region within the region where the wine is from
+●	taster_name: name of the reviewer
+●	taster_twitter_handle: twitter user of the reviewer
+●	title: name of the wine
+●	variety: variety/type of the grapes the wine is made of
+●	winery: winery the wine is from
+
+More details of the projecct are provided in the report
